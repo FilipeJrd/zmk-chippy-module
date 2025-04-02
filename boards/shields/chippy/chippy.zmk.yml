@@ -4,7 +4,7 @@ name: Chippy
 type: shield
 url: https://github.com/JonMuller/gerbers/
 requires:
-  - seeed_xiao
+  - seeed_xiao_ble
 exposes:
   - i2c_oled
 features:
